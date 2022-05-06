@@ -2,5 +2,5 @@
 
 press right button and left button 
 
-home => open/close
+home => open/close <br>
 exit => exit
