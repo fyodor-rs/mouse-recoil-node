@@ -6,7 +6,6 @@ npm run dev
 home => open/close , default open<br>
 end => exit
 
-
-mouse: <br>
+## mouse: <br>
 Press and hold the right key and then press and hold the left key to turn on
 
