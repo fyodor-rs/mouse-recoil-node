@@ -1,11 +1,11 @@
-# mouse-recoil-node
+# Mouse-Recoil-Node
 
 npm run dev
 
-## keyword: <br>
+## Keyword: <br>
 home => open/close , default open<br>
 end => exit
 
-## mouse: <br>
+## Mouse: <br>
 Press and hold the right key and then press and hold the left key to turn on
 
