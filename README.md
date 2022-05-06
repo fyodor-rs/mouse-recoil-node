@@ -1,6 +1,5 @@
 # mouse-recoil-node
 
-download <br>
 npm run dev
 
 keyword: <br>
