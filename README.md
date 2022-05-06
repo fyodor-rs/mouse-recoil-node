@@ -1,8 +1,8 @@
 # mouse-recoil-node
 
-mouse:
+mouse: <br>
 Press and hold the right button to open
 
-keyword:
+keyword: <br>
 home => open/close <br>
 end => exit
