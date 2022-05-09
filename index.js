@@ -22,7 +22,7 @@ mouseEvents.on("mousedown", data => {
     if (s) {
         if (o && data.button === 1) {
             t = setInterval(function () {
-                robot.moveMouseRelative(0, 5)
+                robot.moveMouseRelative(0, 7)
             }, 1)
         }
     }
