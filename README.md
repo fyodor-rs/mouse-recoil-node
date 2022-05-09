@@ -1,6 +1,6 @@
 # Mouse-Recoil-Node
-npm i
-Put robot.js into node_ modules
+npm i<br>
+Put robot.js into node_ modules<br>
 npm run dev
 
 ## Keyword: <br>
