@@ -1,6 +1,8 @@
 # Mouse-Recoil-Node
 ## env <br>
-node15,python latest,vs2019 c++
+node15 <br>
+python latest <br>
+vs2019 c++
 ## Start: <br>
 npm i<br>
 Put robot.js into node_ modules<br>
