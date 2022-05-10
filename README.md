@@ -1,4 +1,6 @@
 # Mouse-Recoil-Node
+##env <br>
+node15,python latest,vs2019 c++
 
 ## Start: <br>
 npm i<br>
