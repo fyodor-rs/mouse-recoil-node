@@ -6,7 +6,8 @@ vs2019 c++
 ## Start: <br>
 npm i<br>
 Put robot.js into node_ modules<br>
-npm run dev
+npm run dev <br>
+or run m.bat
 ## Keyword: <br>
 home => open/close , default open<br>
 end => exit
