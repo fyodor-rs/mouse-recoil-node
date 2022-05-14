@@ -5,7 +5,7 @@ python latest <br>
 vs2019 c++
 ## Start: <br>
 npm i<br>
-Put robot.js into node_ modules<br>
+put robot.js into node_ modules<br>
 npm run dev <br>
 or run m.bat
 ## Keyword: <br>
